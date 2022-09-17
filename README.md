@@ -1,6 +1,7 @@
 <p align="center">
- <img src="https://camo.githubusercontent.com/c5cd163bdabcc3ea0b21760fa6c1bd080fca2b610f65529b31cd082d7f10c0d5/68747470733a2f2f636c6f75642d706b326a31347a61622d6861636b2d636c75622d626f742e76657263656c2e6170702f306861636b5f62656174732e706e67" height="200" width="200">
+ <img src="https://user-images.githubusercontent.com/67071462/190870324-e5b828fa-bd81-41e4-8a61-1973daf668d3.png" height="500" width="500">
 </p>
+
 
 # CODE OF CONDUCT 
 
