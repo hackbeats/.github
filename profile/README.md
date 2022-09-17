@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/organizations/hackbeats/settings/profile" height="500" width="500">
+ <img src="https://avatars.githubusercontent.com/u/104215012?s=200&v=4" height="500" width="500">
 </p>
 
 # CODE OF CONDUCT 
