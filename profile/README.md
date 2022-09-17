@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://avatars.githubusercontent.com/u/104215012?s=200&v=4" height="500" width="500">
+ <img src="https://avatars.githubusercontent.com/u/104215012?s=200&v=4" height="200" width="200">
 </p>
 
 # CODE OF CONDUCT 
