@@ -6,7 +6,7 @@
 # CODE OF CONDUCT 
 
 ## OUR PLEDGE
-Welcome to Cit Hacks, the official tech community of camellia Institute Of Technology aimed for encouraging and promoting public speaking,communication skills, soft skills, best practices, technical expertise and opensource contribution in the field of Computer Science via conducting workshops , hackathons and mentorship sessions in an inclusive and welcoming environment
+Welcome to Cit Hacks, a community for everyone aimed for encouraging and promoting public speaking,communication skills, soft skills, best practices, technical expertise and opensource contribution in the field of Computer Science via conducting workshops , hackathons and mentorship sessions in an inclusive and welcoming environment
 
 ## OUR MOTO 
 - Treat everyone with respect and kindness.
