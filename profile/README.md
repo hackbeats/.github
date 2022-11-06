@@ -2,6 +2,18 @@
  <img src="https://avatars.githubusercontent.com/u/104215012?s=200&v=4" height="200" width="200">
 </p>
 
+
+<h1 align=center> ✨Organizer✨ </h1>
+<p align="center">
+<a href=" https://github.com/hackbeats/.github/graphs/contributors">
+
+  <img src="https://contrib.rocks/image?repo=hackbeats/.github" />
+</a>
+</p>
+<br>
+<br>
+
+
 # CODE OF CONDUCT 
 
 ## OUR PLEDGE
