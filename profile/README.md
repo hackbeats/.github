@@ -59,3 +59,6 @@ please report it immediately by sending us a mail at `hackbeatsorg@gmail.com`
 
 ## ACKNOWLEDGEMENTS
 This was adapted from [HACKCLUB CODE OF CONDUCT](https://hackclub.com/conduct/) & [MLH CODE OF CONDUCT](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)
+
+## ORGANIZERS
+
