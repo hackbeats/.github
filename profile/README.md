@@ -4,11 +4,9 @@
 
 
 <h1 align=center> ✨Organizer✨ </h1>
-<p align="center">
-<a href=" https://github.com/hackbeats/.github/graphs/contributors">
-
-  <img src="https://contrib.rocks/image?repo=hackbeats/.github" />
-</a>
+<p align="center" border-radius="25px">
+ <img src="https://avatars.githubusercontent.com/u/67071462?v=4" width="100px">&nbsp&nbsp&nbsp&nbsp&nbsp
+ <img src="https://avatars.githubusercontent.com/u/94007936?v=4" width="100px">
 </p>
 <br>
 <br>
