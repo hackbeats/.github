@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align=center> ✨Organizer✨ </h1>
+<h1 align=center> ✨Organizers✨ </h1>
 <p align="center" border-radius="25px">
 <a href="https://github.com/kumar-kalyan"><img src="https://avatars.githubusercontent.com/u/67071462?v=4" width="100px">&nbsp&nbsp&nbsp&nbsp&nbsp</a>
 <a href="https://github.com/Rick-mad-lab"> <img src="https://avatars.githubusercontent.com/u/94007936?v=4" width="100px">
